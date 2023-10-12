@@ -1,0 +1,1 @@
+se debe crear una una url de mongodb compass  en el  .env para realizar la conexion correctamente
